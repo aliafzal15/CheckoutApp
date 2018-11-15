@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Checkout51</string>
+    <string name="offer_name_title">Name</string>
+    <string name="cash_back_title">Cash Back</string>
+</resources>
